@@ -167,4 +167,4 @@ Multiple CSS selector approaches returned wrong content. Final solution: job tit
 
 Built by Hugo Hiramatsu — UCLA Aerospace Engineering, sophomore, March 2026.
 
-`hhiramatsu24@g.ucla.edu` · `(213) 697-4437`
+`hhiramatsu24@g.ucla.edu` 

@@ -93,7 +93,7 @@ cd krnl-intelligence-agent
 
 **2. Install dependencies**
 ```bash
-pip install anthropic kernel-python playwright python-dotenv requests
+pip install anthropic kernel playwright python-dotenv requests
 playwright install chromium
 ```
 
